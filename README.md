@@ -15,7 +15,4 @@ I've been learning about Linux for 4 years and I make operating systems for any 
 
                  
                  
-                 
-# [Chrissy was here](https://chrissy.is-a.dev)
-<a href="https://www.github.com/remimixo" target="_blank" rel="noreferrer"><img
-                src="https://img.shields.io/github/followers/christopherfoxjr?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
