@@ -1,10 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Remi "Chrissy" Mixo
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Remi Mixo
 =====================================================================================================================================
 
 That one 15-yr tech kid
 -----------------
 
-I've been learning about Linux for 4 years and I make operating systems for any reason, mainly for fun or my company of course. I'm a wolf-type protogen furry and love Gravity falls
+I've been learning about Linux for 4 years and I make operating systems for any reason, mainly for fun or my company of course. I'm a cat-type furry and love Gravity falls :3
 
 *   🌍  I'm based in Missouri
 *   ✉️  You can contact me at [spoinkosgithub@gmail.com](mailto:spoinkosgithub@gmail.com)
