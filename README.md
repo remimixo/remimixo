@@ -1,7 +1,7 @@
 # Kiba The Raccoon
 
 Hello! I’m Remi Mixo, also known as Kiba (Or Kiba The Raccoon)
-
+CEO of @KibaLabsLLC
 
 # About Me
 
